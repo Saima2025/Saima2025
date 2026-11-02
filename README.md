@@ -15,11 +15,18 @@ Master of Business Administration (MBA) in Finance
 September 2021 – September 2023  
 CGPA: 3.45/4.00
 
+- **Thesis:** Inflation and Its Impact on Economic Growth of Bangladesh
+- **Keywords:** Inflation, Economic Growth, Cointegration, Vector Error Correction Model
+(VECM)
+
 ### East West University
 
 Bachelor of Science (B.Sc.) in Computer Science and Engineering  
-2018  
+January 2015 - December 2018  
 CGPA: 3.55/4.00
+
+- **Thesis:** Detecting Fake News using Machine Learning and Deep Learning Algorithms
+- **Keywords:** Machine Learning, Deep Learning, Logistic Regression, Support Vector Machine (SVM), Artificial Neural Networks (ANN), Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM), Word Embeddings, Scikit-learn, Model Evaluation (Precision, Recall, F1-Score)
 
 ---
 

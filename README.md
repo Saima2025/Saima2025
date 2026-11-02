@@ -3,7 +3,7 @@
 
 Software Engineer 
 
-📍 Toronto, Ontario, Canada | [LinkedIn](https://www.linkedin.com/in/saima-akhter-b44a56163/)
+📍 Toronto, Ontario, Canada | ✉️ saimaakhter849@gmail.com | [LinkedIn](https://www.linkedin.com/in/saima-akhter-b44a56163/)
 
 ---
 

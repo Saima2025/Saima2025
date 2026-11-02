@@ -81,7 +81,3 @@ Laravel and MySQL-based application for managing World Cup data, including teams
 
 ---
 
-## CONNECT WITH ME
-
-- GitHub: https://github.com/Saima2025
-- LinkedIn: YOUR_LINKEDIN_URL

@@ -61,6 +61,12 @@ January 2023 – August 2026
 - **Other Technologies:** TensorFlow, Machine Learning, Deep Learning, Data Analytics
 
 ---
+## AWARDS AND SCHOLARSHIPS
+
+- **MedhaLalon Scholarship:** Awarded in Spring 2018.
+- **Merit Scholarship:** Awarded from Spring 2015 to Summer 2018.
+
+___
 
 ## PROJECTS
 
